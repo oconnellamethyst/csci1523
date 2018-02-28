@@ -9,20 +9,22 @@ from math import sqrt
 go = 0
 cont = 1
 
-number = "null"
-numerator = 0
-denominator = 0
-
-incrementer = 1
-average = 0
-
 x = "null"
 y = "null"
 d = "null"
 
 while (go <= 0):
+    # go2 and go3 prevents other two segments from running after stop
     go2 = 0
     go3 = 0
+    
+    # declaring these variables here so that they reset if the program is run again
+    number = "null"
+    numerator = 0
+    denominator = 0
+
+    incrementer = 1
+    average = 0
 
     print("Welcome to Part 1, Numbers will now be generated")
     for z in range(20):
