@@ -1,6 +1,8 @@
 from velocity import velocity
 from kinetic import kinetic
 
+# MAIN PROGRAM
+
 # A person standing on a bridge that is 100 meters above a road drops a 2.5kilo object, what is velocity and ke?
 a = 9.8
 x = 100
