@@ -4,21 +4,19 @@ from kinetic import kinetic
 # MAIN PROGRAM
 
 # A person standing on a bridge that is 100 meters above a road drops a 2.5kilo object, what is velocity and ke?
-a = 9.8
-x = 100
-m = 2.5
-v = velocity(a,x)
-k = kinetic(v,m)
+aa = 9.8
+xa = 100
+ma = 2.5
+va = velocity(aa,xa)
+ka = kinetic(va,ma)
 
 
-print("Answer, a person standing on a bridge...:\n", "velocity:", v, "\n kinetic energy:", k)
+print("Answer, a person standing on a bridge...:\n", "velocity:", va, "\n kinetic energy:", ka)
 
 
-# Bullet 1200 m/sec, how much weight to get same KE?
+# Bullet 1200 m/sec velocity, how much weight to get same KE?
 
-a = 1200
-v = velocity(a,x)
+vb = 1200
+mb = (2*ka)/(vb**2)
 
-m = k/(kinetic(v,m)/m)
-
-print("Answer, a bullet would need to weigh", m, "kilograms to have the same KE")
+print("Answer, a bullet would need to weigh", mb, "kilograms to have the same KE")
