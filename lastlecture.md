@@ -45,7 +45,7 @@ def selectionSort(alist):
 
 ...
 ```
-[Interactive Python, the Selection Sort](interactivepython.org/runestone/static/pythonds/SortSearch/TheSelectionSort.html)
+[Interactive Python, the Selection Sort](http://interactivepython.org/runestone/static/pythonds/SortSearch/TheSelectionSort.html)
 
 ## Binary Sort program
 
