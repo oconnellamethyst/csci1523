@@ -85,6 +85,7 @@ myfunc(8)
 ```
 
 ## Number 17 in the book
+```
 def reverseString(s):
 	if len(s) > 1:
 		reverseString(s[1: ])
