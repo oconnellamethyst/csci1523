@@ -1,5 +1,5 @@
-# csci1523
-Assignments for CSCI 1523, Intro w/ Python: 
+# Introduction to Computing Programming Concepts
+## Assignments for CSCI 1523, Intro w/ Python: 
 Yo, these are my programs from CSCI 1523, Saint Paul College's Introduction to Computing and Programming Concepts taught by Mary Anderson. 
 Some of these contain exerpts from Warren Sheaffer's Lab Manuals, 
 others contain exerpts from Dierbach's Introducting to Computer Science with Python, 
